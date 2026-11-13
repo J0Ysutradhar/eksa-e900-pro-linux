@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=EKSA Audio Center
+Comment=EKSA E900 Pro Gaming Headset Control Center
+Exec=/home/ethereume/Downloads/EKSA Gaming Headset(win 11)(4)/eksa-linux/eksa-audio-center
+Icon=/home/ethereume/Downloads/EKSA Gaming Headset(win 11)(4)/eksa-linux/assets/app_icon.png
+Terminal=false
+Type=Application
+Categories=AudioVideo;Audio;Mixer;Settings;
+Keywords=eksa;e900;headset;gaming;surround;equalizer;audio;cmedia;
+StartupNotify=true
+

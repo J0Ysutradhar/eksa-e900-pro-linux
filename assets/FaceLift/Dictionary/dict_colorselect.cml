@@ -1,0 +1,8 @@
+<ColorSelect.Dictionary>
+
+	<!-- ColorSelect Name -->
+	<Setter Property="Name" Value=""/>
+
+	<!-- ColorSelect TextBox.Bg -->
+	<Setter Property="TextBox.Bg" Value=""/>
+</ColorSelect.Dictionary>
